@@ -67,13 +67,18 @@ print(result,unans)
 ## OUTPUT
 ## Ping command
 ## Client
-![image](https://github.com/Yuvasreemuthusamy/4.Execution_of_NetworkCommends/assets/144870887/a71fd251-4981-4a47-895e-397385132009)
+
+![image](https://github.com/user-attachments/assets/0075029e-12d5-4fc5-b06d-3a543943ad85)
+
 
 ## Server
-![image](https://github.com/Yuvasreemuthusamy/4.Execution_of_NetworkCommends/assets/144870887/798a1a24-2784-46a9-916a-ec8552ecd907)
+
+![image](https://github.com/user-attachments/assets/83d293c1-d836-4cca-a96c-72db36f3405a)
+
 
 ## Tranceroute command
-![image](https://github.com/Yuvasreemuthusamy/4.Execution_of_NetworkCommends/assets/144870887/ce4aa790-9cc7-427a-8860-e4a5f40b1076)
+
+![image](https://github.com/user-attachments/assets/5b56c506-75c9-493b-ad6f-ae065b5f33a3)
 
 ## Result
 Thus Execution of Network commands Performed 
